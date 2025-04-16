@@ -1,1047 +1,1047 @@
 {
   "Files": [
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PAWMartes.bundle.scp.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PAWMartes.bundle.scp.css",
       "PackagePath": "staticwebassets\\PAWMartes.bundle.scp.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\css\\main.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\css\\main.css",
       "PackagePath": "staticwebassets\\Plant01\\css\\main.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\about.png",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\about.png",
       "PackagePath": "staticwebassets\\Plant01\\img\\about.png"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\apple-touch-icon.png",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\apple-touch-icon.png",
       "PackagePath": "staticwebassets\\Plant01\\img\\apple-touch-icon.png"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\favicon.png",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\favicon.png",
       "PackagePath": "staticwebassets\\Plant01\\img\\favicon.png"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\hero-img.png",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\hero-img.png",
       "PackagePath": "staticwebassets\\Plant01\\img\\hero-img.png"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\logo.png",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\logo.png",
       "PackagePath": "staticwebassets\\Plant01\\img\\logo.png"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\app-1.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\app-1.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\portfolio\\app-1.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\app-2.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\app-2.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\portfolio\\app-2.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\app-3.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\app-3.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\portfolio\\app-3.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\books-1.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\books-1.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\portfolio\\books-1.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\books-2.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\books-2.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\portfolio\\books-2.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\books-3.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\books-3.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\portfolio\\books-3.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\branding-1.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\branding-1.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\portfolio\\branding-1.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\branding-2.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\branding-2.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\portfolio\\branding-2.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\branding-3.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\branding-3.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\portfolio\\branding-3.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\product-1.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\product-1.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\portfolio\\product-1.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\product-2.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\product-2.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\portfolio\\product-2.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\product-3.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\portfolio\\product-3.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\portfolio\\product-3.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\services.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\services.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\services.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\team\\team-1.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\team\\team-1.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\team\\team-1.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\team\\team-2.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\team\\team-2.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\team\\team-2.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\team\\team-3.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\team\\team-3.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\team\\team-3.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\testimonials\\testimonials-1.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\testimonials\\testimonials-1.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\testimonials\\testimonials-1.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\testimonials\\testimonials-2.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\testimonials\\testimonials-2.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\testimonials\\testimonials-2.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\testimonials\\testimonials-3.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\testimonials\\testimonials-3.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\testimonials\\testimonials-3.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\testimonials\\testimonials-4.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\testimonials\\testimonials-4.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\testimonials\\testimonials-4.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\testimonials\\testimonials-5.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\img\\testimonials\\testimonials-5.jpg",
       "PackagePath": "staticwebassets\\Plant01\\img\\testimonials\\testimonials-5.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\js\\main.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\js\\main.js",
       "PackagePath": "staticwebassets\\Plant01\\js\\main.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\scss\\Readme.txt",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\scss\\Readme.txt",
       "PackagePath": "staticwebassets\\Plant01\\scss\\Readme.txt"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\aos\\aos.cjs.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\aos\\aos.cjs.js",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\aos\\aos.cjs.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\aos\\aos.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\aos\\aos.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\aos\\aos.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\aos\\aos.esm.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\aos\\aos.esm.js",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\aos\\aos.esm.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\aos\\aos.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\aos\\aos.js",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\aos\\aos.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\aos\\aos.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\aos\\aos.js.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\aos\\aos.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap-icons\\bootstrap-icons.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap-icons\\bootstrap-icons.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\prb.txt",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\css\\prb.txt",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\css\\prb.txt"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\glightbox\\css\\glightbox.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\glightbox\\css\\glightbox.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\glightbox\\css\\glightbox.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\glightbox\\css\\glightbox.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\glightbox\\css\\glightbox.min.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\glightbox\\css\\glightbox.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\glightbox\\js\\glightbox.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\glightbox\\js\\glightbox.js",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\glightbox\\js\\glightbox.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\glightbox\\js\\glightbox.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\glightbox\\js\\glightbox.min.js",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\glightbox\\js\\glightbox.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\isotope-layout\\isotope.pkgd.js",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\isotope-layout\\isotope.pkgd.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\isotope-layout\\isotope.pkgd.min.js",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\isotope-layout\\isotope.pkgd.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\php-email-form\\validate.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\php-email-form\\validate.js",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\php-email-form\\validate.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\purecounter\\purecounter_vanilla.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\purecounter\\purecounter_vanilla.js",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\purecounter\\purecounter_vanilla.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\purecounter\\purecounter_vanilla.js.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\purecounter\\purecounter_vanilla.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\swiper\\swiper-bundle.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\swiper\\swiper-bundle.min.css",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\swiper\\swiper-bundle.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\swiper\\swiper-bundle.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\swiper\\swiper-bundle.min.js",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\swiper\\swiper-bundle.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant01\\vendor\\swiper\\swiper-bundle.min.js.map",
       "PackagePath": "staticwebassets\\Plant01\\vendor\\swiper\\swiper-bundle.min.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\css\\main.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\css\\main.css",
       "PackagePath": "staticwebassets\\Plant02\\css\\main.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\apple-touch-icon.png",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\apple-touch-icon.png",
       "PackagePath": "staticwebassets\\Plant02\\img\\apple-touch-icon.png"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\favicon.png",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\favicon.png",
       "PackagePath": "staticwebassets\\Plant02\\img\\favicon.png"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\hero-bg.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\hero-bg.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\hero-bg.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\logo.png",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\logo.png",
       "PackagePath": "staticwebassets\\Plant02\\img\\logo.png"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\my-profile-img.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\my-profile-img.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\my-profile-img.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\app-1.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\app-1.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\portfolio\\app-1.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\app-2.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\app-2.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\portfolio\\app-2.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\app-3.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\app-3.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\portfolio\\app-3.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\books-1.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\books-1.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\portfolio\\books-1.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\books-2.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\books-2.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\portfolio\\books-2.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\books-3.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\books-3.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\portfolio\\books-3.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\branding-1.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\branding-1.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\portfolio\\branding-1.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\branding-2.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\branding-2.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\portfolio\\branding-2.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\branding-3.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\branding-3.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\portfolio\\branding-3.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\product-1.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\product-1.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\portfolio\\product-1.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\product-2.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\product-2.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\portfolio\\product-2.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\product-3.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\portfolio\\product-3.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\portfolio\\product-3.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\services.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\services.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\services.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\testimonials\\testimonials-1.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\testimonials\\testimonials-1.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\testimonials\\testimonials-1.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\testimonials\\testimonials-2.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\testimonials\\testimonials-2.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\testimonials\\testimonials-2.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\testimonials\\testimonials-3.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\testimonials\\testimonials-3.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\testimonials\\testimonials-3.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\testimonials\\testimonials-4.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\testimonials\\testimonials-4.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\testimonials\\testimonials-4.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\testimonials\\testimonials-5.jpg",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\img\\testimonials\\testimonials-5.jpg",
       "PackagePath": "staticwebassets\\Plant02\\img\\testimonials\\testimonials-5.jpg"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\js\\main.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\js\\main.js",
       "PackagePath": "staticwebassets\\Plant02\\js\\main.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\scss\\Readme.txt",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\scss\\Readme.txt",
       "PackagePath": "staticwebassets\\Plant02\\scss\\Readme.txt"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\aos\\aos.cjs.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\aos\\aos.cjs.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\aos\\aos.cjs.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\aos\\aos.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\aos\\aos.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\aos\\aos.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\aos\\aos.esm.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\aos\\aos.esm.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\aos\\aos.esm.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\aos\\aos.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\aos\\aos.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\aos\\aos.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\aos\\aos.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\aos\\aos.js.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\aos\\aos.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap-icons\\bootstrap-icons.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap-icons\\bootstrap-icons.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\prb.txt",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\css\\prb.txt",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\css\\prb.txt"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\glightbox\\css\\glightbox.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\glightbox\\css\\glightbox.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\glightbox\\css\\glightbox.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\glightbox\\css\\glightbox.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\glightbox\\css\\glightbox.min.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\glightbox\\css\\glightbox.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\glightbox\\js\\glightbox.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\glightbox\\js\\glightbox.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\glightbox\\js\\glightbox.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\glightbox\\js\\glightbox.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\glightbox\\js\\glightbox.min.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\glightbox\\js\\glightbox.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\isotope-layout\\isotope.pkgd.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\isotope-layout\\isotope.pkgd.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\isotope-layout\\isotope.pkgd.min.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\isotope-layout\\isotope.pkgd.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\php-email-form\\validate.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\php-email-form\\validate.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\php-email-form\\validate.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\purecounter\\purecounter_vanilla.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\purecounter\\purecounter_vanilla.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\purecounter\\purecounter_vanilla.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\purecounter\\purecounter_vanilla.js.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\purecounter\\purecounter_vanilla.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\swiper\\swiper-bundle.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\swiper\\swiper-bundle.min.css",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\swiper\\swiper-bundle.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\swiper\\swiper-bundle.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\swiper\\swiper-bundle.min.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\swiper\\swiper-bundle.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\swiper\\swiper-bundle.min.js.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\swiper\\swiper-bundle.min.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\typed.js\\typed.cjs",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\typed.js\\typed.cjs",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\typed.js\\typed.cjs"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\typed.js\\typed.cjs.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\typed.js\\typed.cjs.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\typed.js\\typed.cjs.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\typed.js\\typed.module.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\typed.js\\typed.module.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\typed.js\\typed.module.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\typed.js\\typed.module.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\typed.js\\typed.module.js.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\typed.js\\typed.module.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\typed.js\\typed.umd.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\typed.js\\typed.umd.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\typed.js\\typed.umd.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\typed.js\\typed.umd.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\typed.js\\typed.umd.js.map",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\typed.js\\typed.umd.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\waypoints\\noframework.waypoints.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\Plant02\\vendor\\waypoints\\noframework.waypoints.js",
       "PackagePath": "staticwebassets\\Plant02\\vendor\\waypoints\\noframework.waypoints.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\css\\site.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\favicon.ico",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\js\\site.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Codigos PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
