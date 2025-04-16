@@ -22,7 +22,7 @@ namespace PAWMartes.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("PAWMartes.Models.Evento", b =>
+            modelBuilder.Entity("PAWMarte.Models.Categoria", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -30,33 +30,32 @@ namespace PAWMartes.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("CapacidadMaxima")
-                        .HasColumnType("int");
-
-                    b.Property<DateOnly>("Fecha")
-                        .HasColumnType("date")
-                        .HasColumnName("FechaEvento");
-
-                    b.Property<TimeSpan>("Hora")
-                        .HasColumnType("time")
-                        .HasColumnName("HoraEvento");
-
-                    b.Property<string>("Lugar")
+                    b.Property<string>("Descripcion")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<bool>("Estado")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTime>("FechaRegistro")
+                        .HasColumnType("datetime2");
+
                     b.Property<string>("Nombre")
                         .IsRequired()
-                        .HasMaxLength(300)
-                        .IsUnicode(true)
-                        .HasColumnType("nvarchar(300)");
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)");
+
+                    b.Property<int>("UsuarioId")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Evento");
+                    b.HasIndex("UsuarioId");
+
+                    b.ToTable("Categoria");
                 });
 
-            modelBuilder.Entity("PAWMartes.Models.Reserva", b =>
+            modelBuilder.Entity("PAWMartes.Models.Asistente", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -64,16 +63,16 @@ namespace PAWMartes.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("Cantidad")
-                        .HasColumnType("int");
-
-                    b.Property<bool>("Estado")
+                    b.Property<bool>("Asistencia")
                         .HasColumnType("bit");
 
                     b.Property<int>("EventoId")
                         .HasColumnType("int");
 
-                    b.Property<DateTime>("Fecha")
+                    b.Property<DateTime>("FechaEvento")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("FechaInscripcion")
                         .HasColumnType("datetime2");
 
                     b.Property<int>("UsuarioId")
@@ -85,7 +84,53 @@ namespace PAWMartes.Migrations
 
                     b.HasIndex("UsuarioId");
 
-                    b.ToTable("Reserva");
+                    b.ToTable("Asistente");
+                });
+
+            modelBuilder.Entity("PAWMartes.Models.Evento", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("CapacidadMaxima")
+                        .HasColumnType("int");
+
+                    b.Property<int>("CategoriaId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Descripcion")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Duracion")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateOnly>("Fecha")
+                        .HasColumnType("date")
+                        .HasColumnName("FechaEvento");
+
+                    b.Property<TimeSpan>("Hora")
+                        .HasColumnType("time");
+
+                    b.Property<string>("Titulo")
+                        .IsRequired()
+                        .HasMaxLength(200)
+                        .IsUnicode(true)
+                        .HasColumnType("nvarchar(200)");
+
+                    b.Property<string>("Ubicacion")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CategoriaId");
+
+                    b.ToTable("Evento");
                 });
 
             modelBuilder.Entity("PAWMartes.Models.Usuario", b =>
@@ -107,36 +152,52 @@ namespace PAWMartes.Migrations
                         .IsUnicode(true)
                         .HasColumnType("nvarchar(300)");
 
-                    b.Property<bool>("Estado")
-                        .HasColumnType("bit");
-
-                    b.Property<DateTime>("FechaRegistro")
-                        .HasColumnType("datetime2");
-
                     b.Property<string>("Nombre")
                         .IsRequired()
                         .HasMaxLength(250)
                         .HasColumnType("nvarchar(250)");
 
+                    b.Property<string>("Rol")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Telefono")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Username")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("Id");
 
-                    b.ToTable("UsuarioSistemas", (string)null);
+                    b.ToTable("Usuario");
                 });
 
-            modelBuilder.Entity("PAWMartes.Models.Reserva", b =>
+            modelBuilder.Entity("PAWMarte.Models.Categoria", b =>
+                {
+                    b.HasOne("PAWMartes.Models.Usuario", "Usuario")
+                        .WithMany("Categorias")
+                        .HasForeignKey("UsuarioId")
+                        .OnDelete(DeleteBehavior.NoAction)
+                        .IsRequired();
+
+                    b.Navigation("Usuario");
+                });
+
+            modelBuilder.Entity("PAWMartes.Models.Asistente", b =>
                 {
                     b.HasOne("PAWMartes.Models.Evento", "Evento")
-                        .WithMany("Reservas")
+                        .WithMany("Asistentes")
                         .HasForeignKey("EventoId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.NoAction)
                         .IsRequired();
 
                     b.HasOne("PAWMartes.Models.Usuario", "Usuario")
-                        .WithMany("Reservas")
+                        .WithMany("Asistentes")
                         .HasForeignKey("UsuarioId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired()
-                        .HasConstraintName("FK_RESERVAS_USUARIO");
+                        .OnDelete(DeleteBehavior.NoAction)
+                        .IsRequired();
 
                     b.Navigation("Evento");
 
@@ -145,12 +206,30 @@ namespace PAWMartes.Migrations
 
             modelBuilder.Entity("PAWMartes.Models.Evento", b =>
                 {
-                    b.Navigation("Reservas");
+                    b.HasOne("PAWMarte.Models.Categoria", "Categoria")
+                        .WithMany("Eventos")
+                        .HasForeignKey("CategoriaId")
+                        .OnDelete(DeleteBehavior.NoAction)
+                        .IsRequired();
+
+                    b.Navigation("Categoria");
+                });
+
+            modelBuilder.Entity("PAWMarte.Models.Categoria", b =>
+                {
+                    b.Navigation("Eventos");
+                });
+
+            modelBuilder.Entity("PAWMartes.Models.Evento", b =>
+                {
+                    b.Navigation("Asistentes");
                 });
 
             modelBuilder.Entity("PAWMartes.Models.Usuario", b =>
                 {
-                    b.Navigation("Reservas");
+                    b.Navigation("Asistentes");
+
+                    b.Navigation("Categorias");
                 });
 #pragma warning restore 612, 618
         }

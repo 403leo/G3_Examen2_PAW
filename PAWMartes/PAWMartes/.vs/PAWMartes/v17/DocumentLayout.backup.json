@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6A700C9-FFA8-4F13-8CD6-7E4D18C9FF7C}|PAWMartesModels\\PAWMartesModels.csproj|d:\\codigos paw\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartesmodels\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A700C9-FFA8-4F13-8CD6-7E4D18C9FF7C}|PAWMartesModels\\PAWMartesModels.csproj|solutionrelative:pawmartesmodels\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6A700C9-FFA8-4F13-8CD6-7E4D18C9FF7C}|PAWMartesModels\\PAWMartesModels.csproj|d:\\codigos paw\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartesmodels\\pawcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6A700C9-FFA8-4F13-8CD6-7E4D18C9FF7C}|PAWMartesModels\\PAWMartesModels.csproj|solutionrelative:pawmartesmodels\\pawcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6A700C9-FFA8-4F13-8CD6-7E4D18C9FF7C}|PAWMartesModels\\PAWMartesModels.csproj|d:\\codigos paw\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartesmodels\\carritoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A700C9-FFA8-4F13-8CD6-7E4D18C9FF7C}|PAWMartesModels\\PAWMartesModels.csproj|solutionrelative:pawmartesmodels\\carritoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|d:\\codigos paw\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6A700C9-FFA8-4F13-8CD6-7E4D18C9FF7C}|PAWMartesModels\\PAWMartesModels.csproj|d:\\codigos paw\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartesmodels\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A700C9-FFA8-4F13-8CD6-7E4D18C9FF7C}|PAWMartesModels\\PAWMartesModels.csproj|solutionrelative:pawmartesmodels\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|d:\\codigos paw\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\services\\eventoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\services\\eventoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|d:\\codigos paw\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1871,
-          "SelectedChildIndex": 64,
+          "SelectedChildIndex": 62,
           "Children": [
             {
               "$type": "Bookmark",
@@ -290,91 +266,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PAWContext.cs",
               "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWContext.cs",
               "RelativeDocumentMoniker": "PAWMartesModels\\PAWContext.cs",
               "ToolTip": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWContext.cs",
               "RelativeToolTip": "PAWMartesModels\\PAWContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwDwAAACfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T00:34:01.775Z",
+              "WhenOpened": "2025-04-16T01:31:02.817Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarritoItem.cs",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\CarritoItem.cs",
-              "RelativeDocumentMoniker": "PAWMartesModels\\CarritoItem.cs",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\CarritoItem.cs",
-              "RelativeToolTip": "PAWMartesModels\\CarritoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T00:33:56.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Evento.cs",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\Evento.cs",
-              "RelativeDocumentMoniker": "PAWMartesModels\\Evento.cs",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\Evento.cs",
-              "RelativeToolTip": "PAWMartesModels\\Evento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T00:33:55.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\Usuario.cs",
-              "RelativeDocumentMoniker": "PAWMartesModels\\Usuario.cs",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\Usuario.cs",
-              "RelativeToolTip": "PAWMartesModels\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T03:23:40.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EventosController.cs",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Controllers\\EventosController.cs",
-              "RelativeDocumentMoniker": "PAWMartes\\Controllers\\EventosController.cs",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Controllers\\EventosController.cs",
-              "RelativeToolTip": "PAWMartes\\Controllers\\EventosController.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAAwEUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T22:41:45.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EventoServices.cs",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Services\\EventoServices.cs",
-              "RelativeDocumentMoniker": "PAWMartes\\Services\\EventoServices.cs",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Services\\EventoServices.cs",
-              "RelativeToolTip": "PAWMartes\\Services\\EventoServices.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwEcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T22:39:05.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CarritoController.cs",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Controllers\\CarritoController.cs",
-              "RelativeDocumentMoniker": "PAWMartes\\Controllers\\CarritoController.cs",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Controllers\\CarritoController.cs",
-              "RelativeToolTip": "PAWMartes\\Controllers\\CarritoController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAMwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T20:25:51.379Z"
             }
           ]
         },

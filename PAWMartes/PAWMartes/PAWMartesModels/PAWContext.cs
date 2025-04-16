@@ -1,5 +1,6 @@
 ﻿using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
+using PAWMarte.Models;
 
 namespace PAWMartes.Models
 {
@@ -12,7 +13,8 @@ namespace PAWMartes.Models
         // Tablas o las entidades
         public DbSet<Evento> Evento { get; set; }
         public DbSet<Usuario> Usuario { get; set; }
-        public DbSet<Reserva> Reserva { get; set; }
+        public DbSet<Asistente> Asistente { get; set; }
+        public DbSet<Categoria> Categoria { get; set; }
 
         // Sobre escribir el evento para modificar la creacion de la instancia y sus propiedades
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -22,31 +24,42 @@ namespace PAWMartes.Models
             {
                 // Evento.HasKey(e => new {e.Id, e.Nombre});
                 Evento.HasKey(e => e.Id);
-                Evento.Property(n => n.Nombre).IsRequired().HasMaxLength(300).IsUnicode(true);
+                Evento.Property(n => n.Titulo).IsRequired().HasMaxLength(200).IsUnicode(true);
                 Evento.Property(f => f.Fecha).IsRequired().HasColumnName("FechaEvento");
-                Evento.Property(h => h.Hora).HasColumnName("HoraEvento");
+                Evento.Property(h => h.Hora).IsRequired();
             });
 
             // Se configura la tabla de Usuario
             modelBuilder.Entity<Usuario>(Usuario =>
             {
                 Usuario.HasKey(e => e.Id);
-                Usuario.ToTable("UsuarioSistemas");
                 Usuario.Property(n => n.Nombre).HasMaxLength(250).IsRequired();
                 Usuario.Property(c => c.Correo).IsRequired().HasMaxLength(300).IsUnicode(true);
                 Usuario.Property(c => c.Contraseña).HasMaxLength(150);
             });
 
-            modelBuilder.Entity<Reserva>(Reserva =>
+            modelBuilder.Entity<Categoria>(Reserva =>
             {
                 Reserva.HasKey(e => e.Id);
+                Reserva.Property(n => n.Nombre).HasMaxLength(250).IsRequired();
             });
 
-            // Yo tengo un evento con muchas reservas que se identifica por el eventoId
-            modelBuilder.Entity<Reserva>().HasOne(x => x.Evento).WithMany(e => e.Reservas).HasForeignKey(r => r.EventoId);
+            modelBuilder.Entity<Categoria>(Reserva =>
+            {
+                Reserva.HasKey(e => e.Id);
+                Reserva.Property(n => n.Nombre).HasMaxLength(250).IsRequired();
+            });
 
-            // Yo tengo un usuario con muchas reservas que se identifica por el usuarioId
-            modelBuilder.Entity<Reserva>().HasOne(x => x.Usuario).WithMany(e => e.Reservas).HasForeignKey(r => r.UsuarioId).HasConstraintName("FK_RESERVAS_USUARIO");
+            // Relaciones ASISTENTE 
+            modelBuilder.Entity<Asistente>().HasOne(x => x.Evento).WithMany(e => e.Asistentes).HasForeignKey(r => r.EventoId).OnDelete(DeleteBehavior.NoAction);
+            modelBuilder.Entity<Asistente>().HasOne(x => x.Usuario).WithMany(e => e.Asistentes).HasForeignKey(r => r.UsuarioId).OnDelete(DeleteBehavior.NoAction);
+
+            // Relaciones CATEGORIA
+            modelBuilder.Entity<Categoria>().HasOne(x => x.Usuario).WithMany(e => e.Categorias).HasForeignKey(r => r.UsuarioId).OnDelete(DeleteBehavior.NoAction);
+
+            // Relaciones EVENTO
+            modelBuilder.Entity<Evento>().HasOne(x => x.Categoria).WithMany(e => e.Eventos).HasForeignKey(r => r.CategoriaId).OnDelete(DeleteBehavior.NoAction);
+
         }
 
         public async Task<bool> LoginUsuario(string Usuario, string contraseña)

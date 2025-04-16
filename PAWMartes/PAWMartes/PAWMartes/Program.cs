@@ -22,7 +22,7 @@ builder.Services.AddSingleton<ISingeltonServices, SingeltonServices>();
 builder.Services.AddScoped<IEventosServices, EventoServices>();
 
 // Se agrega el servicio de carrito en donde se pone singleton para que me mantenga la instancia y el listado no lo pierda
-builder.Services.AddSingleton<ICarritoServices, CarritoServices>();
+//builder.Services.AddSingleton<ICarritoServices, CarritoServices>();
 
 var app = builder.Build();
 

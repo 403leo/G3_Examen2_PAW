@@ -26,34 +26,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Codigos PAW\G3_Examen2_PAW\PAWMartes\PAWMartes\PAWMartes
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Carrito/Confirmacion.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycml0b1xDb25maXJtYWNpb24uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Carrito/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycml0b1xJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Eventos/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Eventos/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Eventos/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Eventos/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Eventos/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -64,26 +36,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Reservas/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Reservas/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Reservas/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Reservas/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Reservas/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Shared/Error.cshtml]
@@ -108,26 +60,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Usuario/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Usuario/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Usuario/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Usuario/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Usuario/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/_ViewImports.cshtml]
