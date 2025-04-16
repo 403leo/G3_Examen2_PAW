@@ -1,0 +1,26 @@
+﻿@model Reserva
+
+@{
+	string Estado = string.Empty;
+	if(Model.Estado)
+		Estado = "Activa";
+	else 
+		Estado = "Cancelada";
+}
+
+
+<div class="card border-2" style="border-color: cornflowerblue !important;">
+	<div class="card-header">
+		<h3>@Model.Fecha.ToShortDateString()</h3>
+	</div>
+	<div class="card-body">
+		<p>Usuario de Reserva: @Model.Usuario.Nombre </p>
+		<p>Evento: @Model.Evento.Nombre</p>
+		<p>Esta reserva se encuentra: @Estado</p>
+		<div>
+			<a class="btn btn-secondary" asp-action="Edit" asp-route-id="@Model.Id">Editar</a>
+			<a class="btn btn-info" asp-action="Details" asp-route-id="@Model.Id">Ver Detalles</a>
+			<a class="btn btn-dangerous" asp-action="Delete" asp-route-id="@Model.Id">Eliminar</a>
+		</div>
+	</div>
+</div>

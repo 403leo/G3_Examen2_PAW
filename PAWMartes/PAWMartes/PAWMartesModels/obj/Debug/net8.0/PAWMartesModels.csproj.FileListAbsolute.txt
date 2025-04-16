@@ -1,0 +1,28 @@
+C:\Users\leona\OneDrive\Documents\Setimo Cuatrimestre Fidelitas U\Programacion Avanzada en Web\Semana 6\PAWMartes\PAWMartesModels\bin\Debug\net8.0\PAWMartesModels.deps.json
+C:\Users\leona\OneDrive\Documents\Setimo Cuatrimestre Fidelitas U\Programacion Avanzada en Web\Semana 6\PAWMartes\PAWMartesModels\bin\Debug\net8.0\PAWMartesModels.runtimeconfig.json
+C:\Users\leona\OneDrive\Documents\Setimo Cuatrimestre Fidelitas U\Programacion Avanzada en Web\Semana 6\PAWMartes\PAWMartesModels\bin\Debug\net8.0\PAWMartesModels.dll
+C:\Users\leona\OneDrive\Documents\Setimo Cuatrimestre Fidelitas U\Programacion Avanzada en Web\Semana 6\PAWMartes\PAWMartesModels\bin\Debug\net8.0\PAWMartesModels.pdb
+C:\Users\leona\OneDrive\Documents\Setimo Cuatrimestre Fidelitas U\Programacion Avanzada en Web\Semana 6\PAWMartes\PAWMartesModels\obj\Debug\net8.0\PAWMartesModels.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Documents\Setimo Cuatrimestre Fidelitas U\Programacion Avanzada en Web\Semana 6\PAWMartes\PAWMartesModels\obj\Debug\net8.0\PAWMartesModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Documents\Setimo Cuatrimestre Fidelitas U\Programacion Avanzada en Web\Semana 6\PAWMartes\PAWMartesModels\obj\Debug\net8.0\PAWMartesModels.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Documents\Setimo Cuatrimestre Fidelitas U\Programacion Avanzada en Web\Semana 6\PAWMartes\PAWMartesModels\obj\Debug\net8.0\PAWMartesModels.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Documents\Setimo Cuatrimestre Fidelitas U\Programacion Avanzada en Web\Semana 6\PAWMartes\PAWMartesModels\obj\Debug\net8.0\PAWMartesModels.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documents\Setimo Cuatrimestre Fidelitas U\Programacion Avanzada en Web\Semana 6\PAWMartes\PAWMartesModels\obj\Debug\net8.0\PAWMartesModels.dll
+C:\Users\leona\OneDrive\Documents\Setimo Cuatrimestre Fidelitas U\Programacion Avanzada en Web\Semana 6\PAWMartes\PAWMartesModels\obj\Debug\net8.0\refint\PAWMartesModels.dll
+C:\Users\leona\OneDrive\Documents\Setimo Cuatrimestre Fidelitas U\Programacion Avanzada en Web\Semana 6\PAWMartes\PAWMartesModels\obj\Debug\net8.0\PAWMartesModels.pdb
+C:\Users\leona\OneDrive\Documents\Setimo Cuatrimestre Fidelitas U\Programacion Avanzada en Web\Semana 6\PAWMartes\PAWMartesModels\obj\Debug\net8.0\PAWMartesModels.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Documents\Setimo Cuatrimestre Fidelitas U\Programacion Avanzada en Web\Semana 6\PAWMartes\PAWMartesModels\obj\Debug\net8.0\ref\PAWMartesModels.dll
+D:\Codigos PAW\PAWMartes\PAWMartes\PAWMartesModels\bin\Debug\net8.0\PAWMartesModels.deps.json
+D:\Codigos PAW\PAWMartes\PAWMartes\PAWMartesModels\bin\Debug\net8.0\PAWMartesModels.runtimeconfig.json
+D:\Codigos PAW\PAWMartes\PAWMartes\PAWMartesModels\bin\Debug\net8.0\PAWMartesModels.dll
+D:\Codigos PAW\PAWMartes\PAWMartes\PAWMartesModels\bin\Debug\net8.0\PAWMartesModels.pdb
+D:\Codigos PAW\PAWMartes\PAWMartes\PAWMartesModels\obj\Debug\net8.0\PAWMartesModels.csproj.AssemblyReference.cache
+D:\Codigos PAW\PAWMartes\PAWMartes\PAWMartesModels\obj\Debug\net8.0\PAWMartesModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos PAW\PAWMartes\PAWMartes\PAWMartesModels\obj\Debug\net8.0\PAWMartesModels.AssemblyInfoInputs.cache
+D:\Codigos PAW\PAWMartes\PAWMartes\PAWMartesModels\obj\Debug\net8.0\PAWMartesModels.AssemblyInfo.cs
+D:\Codigos PAW\PAWMartes\PAWMartes\PAWMartesModels\obj\Debug\net8.0\PAWMartesModels.csproj.CoreCompileInputs.cache
+D:\Codigos PAW\PAWMartes\PAWMartes\PAWMartesModels\obj\Debug\net8.0\PAWMartesModels.dll
+D:\Codigos PAW\PAWMartes\PAWMartes\PAWMartesModels\obj\Debug\net8.0\refint\PAWMartesModels.dll
+D:\Codigos PAW\PAWMartes\PAWMartes\PAWMartesModels\obj\Debug\net8.0\PAWMartesModels.pdb
+D:\Codigos PAW\PAWMartes\PAWMartes\PAWMartesModels\obj\Debug\net8.0\PAWMartesModels.genruntimeconfig.cache
+D:\Codigos PAW\PAWMartes\PAWMartes\PAWMartesModels\obj\Debug\net8.0\ref\PAWMartesModels.dll

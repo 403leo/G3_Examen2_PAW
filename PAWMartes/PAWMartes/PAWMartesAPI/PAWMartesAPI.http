@@ -1,0 +1,6 @@
+@PAWMartesAPI_HostAddress = http://localhost:5022
+
+GET {{PAWMartesAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
