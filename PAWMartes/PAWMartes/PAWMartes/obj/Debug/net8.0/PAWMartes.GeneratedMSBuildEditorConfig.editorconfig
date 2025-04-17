@@ -26,6 +26,46 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Codigos PAW\G3_Examen2_PAW\PAWMartes\PAWMartes\PAWMartes
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Categoria/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Categoria/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Categoria/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Categoria/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Categoria/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Evento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Evento/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Evento/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Evento/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Evento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Codigos PAW/G3_Examen2_PAW/PAWMartes/PAWMartes/PAWMartes/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
