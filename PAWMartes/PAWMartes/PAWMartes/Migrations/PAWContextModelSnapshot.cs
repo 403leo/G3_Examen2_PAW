@@ -109,12 +109,12 @@ namespace PAWMartes.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateOnly>("Fecha")
-                        .HasColumnType("date")
+                    b.Property<DateTime>("Fecha")
+                        .HasColumnType("datetime2")
                         .HasColumnName("FechaEvento");
 
-                    b.Property<TimeSpan>("Hora")
-                        .HasColumnType("time");
+                    b.Property<DateTime>("Hora")
+                        .HasColumnType("datetime2");
 
                     b.Property<string>("Titulo")
                         .IsRequired()

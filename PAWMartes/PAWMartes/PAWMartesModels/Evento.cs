@@ -7,8 +7,8 @@ namespace PAWMartes.Models
         public int Id { get; set; }
         public string Titulo { get; set; }
         public string Descripcion { get; set; }
-        public DateOnly Fecha { get; set; }
-        public TimeSpan Hora { get; set; }
+        public DateTime Fecha { get; set; }
+        public DateTime Hora { get; set; }
         public string Duracion { get; set; }
         public string Ubicacion { get; set; }
         public int CategoriaId { get; set; }
