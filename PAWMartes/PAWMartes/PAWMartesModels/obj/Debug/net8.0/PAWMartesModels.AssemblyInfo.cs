@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PAWMartesModels")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe5c46b491d9b21421f795bfc91ecc8a8cf7f399")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eefc238f109454bc8e0c719e51edd9ce03ec88d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PAWMartesModels")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PAWMartesModels")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

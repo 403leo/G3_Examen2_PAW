@@ -59,6 +59,7 @@ namespace PAWMartes.Models
 
             // Relaciones EVENTO
             modelBuilder.Entity<Evento>().HasOne(x => x.Categoria).WithMany(e => e.Eventos).HasForeignKey(r => r.CategoriaId).OnDelete(DeleteBehavior.NoAction);
+            modelBuilder.Entity<Evento>().HasOne(x => x.Usuario).WithMany(e => e.Eventos).HasForeignKey(r => r.UsuarioId).OnDelete(DeleteBehavior.NoAction);
 
         }
 

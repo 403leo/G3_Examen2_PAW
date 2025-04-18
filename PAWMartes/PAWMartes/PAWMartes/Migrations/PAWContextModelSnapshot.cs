@@ -105,9 +105,8 @@ namespace PAWMartes.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Duracion")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("Duracion")
+                        .HasColumnType("int");
 
                     b.Property<DateTime>("Fecha")
                         .HasColumnType("datetime2")
@@ -126,9 +125,17 @@ namespace PAWMartes.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("UsuarioId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("fechaRegistro")
+                        .HasColumnType("datetime2");
+
                     b.HasKey("Id");
 
                     b.HasIndex("CategoriaId");
+
+                    b.HasIndex("UsuarioId");
 
                     b.ToTable("Evento");
                 });
@@ -212,7 +219,15 @@ namespace PAWMartes.Migrations
                         .OnDelete(DeleteBehavior.NoAction)
                         .IsRequired();
 
+                    b.HasOne("PAWMartes.Models.Usuario", "Usuario")
+                        .WithMany("Eventos")
+                        .HasForeignKey("UsuarioId")
+                        .OnDelete(DeleteBehavior.NoAction)
+                        .IsRequired();
+
                     b.Navigation("Categoria");
+
+                    b.Navigation("Usuario");
                 });
 
             modelBuilder.Entity("PAWMarte.Models.Categoria", b =>
@@ -230,6 +245,8 @@ namespace PAWMartes.Migrations
                     b.Navigation("Asistentes");
 
                     b.Navigation("Categorias");
+
+                    b.Navigation("Eventos");
                 });
 #pragma warning restore 612, 618
         }

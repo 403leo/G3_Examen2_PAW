@@ -48,6 +48,7 @@ namespace PAWMartes.Controllers
         // GET: Categoria/Create
         public IActionResult Create()
         {
+           // Se tiene que obtener el usuario actual AQUI para ponerlo automaticamente
             ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña");
             return View();
         }
@@ -57,8 +58,9 @@ namespace PAWMartes.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Nombre,Descripcion,Estado,FechaRegistro,UsuarioId")] Categoria categoria)
+        public async Task<IActionResult> Create([Bind("Id,Nombre,Descripcion,Estado,UsuarioId")] Categoria categoria)
         {
+            categoria.FechaRegistro = DateTime.Now;
             if (ModelState.IsValid)
             {
                 _context.Add(categoria);

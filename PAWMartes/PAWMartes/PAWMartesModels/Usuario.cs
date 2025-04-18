@@ -15,6 +15,7 @@ namespace PAWMartes.Models
         // Se pone un ? porque un usuario no tiene que necesariamente hacer una categoria
         public IEnumerable<Categoria>? Categorias { get; set; }
         public IEnumerable<Asistente>? Asistentes { get; set; }
+        public IEnumerable<Evento>? Eventos { get; set; }
 
     }
 }
