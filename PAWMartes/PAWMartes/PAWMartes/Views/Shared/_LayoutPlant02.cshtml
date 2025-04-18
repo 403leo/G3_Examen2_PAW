@@ -1,4 +1,10 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Http
+@{
+    // Alternativa usando ViewContext
+    var rol = ViewContext.HttpContext.Session.GetString("Rol");
+}
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -30,7 +36,7 @@
         </div>
 
         <a href="index.html" class="logo d-flex align-items-center justify-content-center">
-            <h1 class="sitename">PAW</h1>
+            <h1 class="sitename">EventCorp</h1>
         </a>
 
         <nav id="navmenu" class="navmenu">
@@ -44,21 +50,33 @@
                 <li>
                     <a asp-area="" asp-controller="Home" asp-action="ListaServicios"><i class="bi bi-file-earmark-text navicon"></i> Servicios</a>
                 </li>
+                @if (rol == "Admin")
+                    {
                 <li>
-                    <a asp-area="" asp-controller="Usuario" asp-action="Index"><i class="bi bi-person navicon"></i> Usuarios</a>
+                    <a asp-area="" asp-controller="Usuario" asp-action="Lista"><i class="bi bi-person navicon"></i> Usuarios</a>
                 </li>
+                    }
+                
+           
                 <li>
                     <a asp-area="" asp-controller="Evento" asp-action="Index"><i class="bi bi-person navicon"></i> Eventos</a>
                 </li>
                 <li>
                     <a asp-area="" asp-controller="Categoria" asp-action="Index"><i class="bi bi-person navicon"></i> Categorias</a>
                 </li>
+ 
                 <li>
-                    <carrito-resumen></carrito-resumen>
+                    <a asp-area="" asp-controller="Usuario" asp-action="CerrarSesion"><i class="bi bi-person navicon"></i> Logout</a>
                 </li>
+                
+
+
+
             </ul>
         </nav>
     </header>
+
+
 
     <div class="container">
         <main role="main" class="pb-3">
@@ -70,7 +88,7 @@
 
         <div class="container">
             <div class="copyright text-center ">
-                <p>© <span>Copyright</span> <strong class="px-1 sitename">PAW</strong> <span>All Rights Reserved</span>  - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a></p>
+                <p>© <span>Copyright</span> <strong class="px-1 sitename">EventCorp</strong> <span>All Rights Reserved</span>  - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a></p>
             </div>
             <div class="credits">
                 Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> Distributed by <a href="https://themewagon.com">ThemeWagon</a>
@@ -101,3 +119,12 @@
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
+
+
+<style>
+
+    header.header .container-fluid {
+        background-color: transparent !important;
+    }
+
+</style>
