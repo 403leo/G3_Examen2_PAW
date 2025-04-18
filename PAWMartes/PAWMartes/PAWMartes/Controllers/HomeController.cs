@@ -25,6 +25,11 @@ namespace PAWMartes.Controllers
 
         public IActionResult Index()
         {
+            var usuario = HttpContext.Session.GetString("usuario");
+            if (string.IsNullOrEmpty(usuario))
+            {
+                return RedirectToAction("Index", "Usuario"); // Redirige al login
+            }
             return View();
         }
 

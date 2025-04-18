@@ -20,6 +20,8 @@ builder.Services.AddScoped<IScopedServices, ScopedServices>();
 builder.Services.AddSingleton<ISingeltonServices, SingeltonServices>();
 
 builder.Services.AddScoped<IEventosServices, EventoServices>();
+builder.Services.AddSession();
+builder.Services.AddHttpContextAccessor();
 
 // Se agrega el servicio de carrito en donde se pone singleton para que me mantenga la instancia y el listado no lo pierda
 //builder.Services.AddSingleton<ICarritoServices, CarritoServices>();
@@ -36,14 +38,14 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
 app.UseRouting();
-
+app.UseSession();
 app.UseAuthorization();
+
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Usuario}/{action=Index}/{id?}");
 
 app.Run();
 

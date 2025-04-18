@@ -38,7 +38,10 @@
 }
 
 /* Color Presets - These classes override global colors when applied to any section or element, providing reuse of the sam color scheme. */
-
+header.header {
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
 .light-background {
   --background-color: #f4fafd;
   --surface-color: #ffffff;

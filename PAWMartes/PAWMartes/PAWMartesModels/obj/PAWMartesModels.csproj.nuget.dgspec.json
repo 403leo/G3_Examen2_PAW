@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWMartesModels.csproj": {}
+    "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWMartesModels.csproj": {}
   },
   "projects": {
-    "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWMartesModels.csproj": {
+    "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWMartesModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWMartesModels.csproj",
+        "projectUniqueName": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWMartesModels.csproj",
         "projectName": "PAWMartesModels",
-        "projectPath": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWMartesModels.csproj",
-        "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\obj\\",
+        "projectPath": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWMartesModels.csproj",
+        "packagesPath": "C:\\Users\\estiv\\.nuget\\packages\\",
+        "outputPath": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\estiv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

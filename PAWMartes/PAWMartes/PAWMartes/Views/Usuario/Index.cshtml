@@ -1,0 +1,91 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    ViewBag.HideNavbar = true;
+
+}
+
+<style>
+    body {
+        position: relative;
+        margin: 0;
+        height: 100vh;
+        font-family: Arial, sans-serif;
+        overflow: hidden;
+    }
+        body::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url('https://c1.wallpaperflare.com/preview/325/927/748/black-white-concert-reggae-music.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            filter: blur(8px);
+            z-index: -1;
+        }
+
+        .login-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .login-box {
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.3);
+            text-align: center;
+            width: 300px;
+        }
+
+        .login-box input {
+            width: 100%;
+            padding: 8px;
+            margin: 8px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .login-box button {
+            width: 100%;
+            padding: 10px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .login-box button:hover {
+            background-color: #218838;
+        }
+</style>
+
+<div class="login-container">
+    <div class="login-box">
+        <h2>Iniciar Sesión</h2>
+
+        <form asp-action="Index" method="post">
+            <label>Usuario:</label>
+            <input type="text" name="Username" required />
+
+            <label>Contraseña:</label>
+            <input type="password" name="contraseña" required />
+
+            <button type="submit">Entrar</button>
+        </form>
+
+        <br />
+        <a asp-controller="Usuario" asp-action="Create" class="btn btn-success">Crear Cuenta</a>
+
+        @if (ViewBag.Error != null)
+        {
+            <p style="color:red">@ViewBag.Error</p>
+        }
+    </div>
+</div>
