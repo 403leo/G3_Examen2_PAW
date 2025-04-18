@@ -9,13 +9,16 @@ namespace PAWMartes.Models
         public string Descripcion { get; set; }
         public DateTime Fecha { get; set; }
         public DateTime Hora { get; set; }
-        public string Duracion { get; set; }
+        public int Duracion { get; set; }
         public string Ubicacion { get; set; }
         public int CategoriaId { get; set; }
+        public int UsuarioId { get; set; } 
         public int CapacidadMaxima { get; set; }
+        public DateTime fechaRegistro { get; set; }
 
         // Atributos FK
         public Categoria? Categoria { get; set; }
+        public Usuario? Usuario { get; set; }
 
 
         // Relaciones objetos

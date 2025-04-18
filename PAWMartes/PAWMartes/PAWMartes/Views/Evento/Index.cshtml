@@ -40,7 +40,13 @@
                 @Html.DisplayNameFor(model => model.CapacidadMaxima)
             </th>
             <th>
+                @Html.DisplayNameFor(model => model.fechaRegistro)
+            </th>
+            <th>
                 @Html.DisplayNameFor(model => model.Categoria)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Usuario)
             </th>
             <th></th>
         </tr>
@@ -70,7 +76,13 @@
                 @Html.DisplayFor(modelItem => item.CapacidadMaxima)
             </td>
             <td>
+                @Html.DisplayFor(modelItem => item.fechaRegistro)
+            </td>
+            <td>
                 @Html.DisplayFor(modelItem => item.Categoria.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Usuario.Contraseña)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |

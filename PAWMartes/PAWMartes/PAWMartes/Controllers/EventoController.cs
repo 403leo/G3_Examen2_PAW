@@ -21,7 +21,7 @@ namespace PAWMartes.Controllers
         // GET: Evento
         public async Task<IActionResult> Index()
         {
-            var pAWContext = _context.Evento.Include(e => e.Categoria);
+            var pAWContext = _context.Evento.Include(e => e.Categoria).Include(e => e.Usuario);
             return View(await pAWContext.ToListAsync());
         }
 
@@ -35,6 +35,7 @@ namespace PAWMartes.Controllers
 
             var evento = await _context.Evento
                 .Include(e => e.Categoria)
+                .Include(e => e.Usuario)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (evento == null)
             {
@@ -48,6 +49,7 @@ namespace PAWMartes.Controllers
         public IActionResult Create()
         {
             ViewData["CategoriaId"] = new SelectList(_context.Categoria, "Id", "Descripcion");
+            ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña");
             return View();
         }
 
@@ -56,8 +58,26 @@ namespace PAWMartes.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Titulo,Descripcion,Fecha,Hora,Duracion,Ubicacion,CategoriaId,CapacidadMaxima")] Evento evento)
+        public async Task<IActionResult> Create([Bind("Id,Titulo,Descripcion,Fecha,Hora,Duracion,Ubicacion,CategoriaId,UsuarioId,CapacidadMaxima")] Evento evento)
         {
+            // Validación: La fecha no debe ser en el pasado
+            if (evento.Fecha < DateTime.Now.Date)
+            {
+                ModelState.AddModelError("Fecha", "La fecha no puede ser en el pasado.");
+            }
+
+            // Validación: La duración debe ser positiva
+            if (evento.Duracion <= 0)
+            {
+                ModelState.AddModelError("Duracion", "La duración debe ser un valor positivo.");
+            }
+
+            // Validación: El cupo máximo debe ser mayor a 0
+            if (evento.CapacidadMaxima <= 0)
+            {
+                ModelState.AddModelError("CapacidadMaxima", "El cupo máximo debe ser mayor a 0.");
+            }
+            evento.fechaRegistro = DateTime.Now;
             if (ModelState.IsValid)
             {
                 _context.Add(evento);
@@ -65,6 +85,7 @@ namespace PAWMartes.Controllers
                 return RedirectToAction(nameof(Index));
             }
             ViewData["CategoriaId"] = new SelectList(_context.Categoria, "Id", "Descripcion", evento.CategoriaId);
+            ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña", evento.UsuarioId);
             return View(evento);
         }
 
@@ -82,6 +103,7 @@ namespace PAWMartes.Controllers
                 return NotFound();
             }
             ViewData["CategoriaId"] = new SelectList(_context.Categoria, "Id", "Descripcion", evento.CategoriaId);
+            ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña", evento.UsuarioId);
             return View(evento);
         }
 
@@ -90,11 +112,28 @@ namespace PAWMartes.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Titulo,Descripcion,Fecha,Hora,Duracion,Ubicacion,CategoriaId,CapacidadMaxima")] Evento evento)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Titulo,Descripcion,Fecha,Hora,Duracion,Ubicacion,CategoriaId,UsuarioId,CapacidadMaxima,fechaRegistro")] Evento evento)
         {
             if (id != evento.Id)
             {
                 return NotFound();
+            }
+            // Validación: La fecha no debe ser en el pasado
+            if (evento.Fecha < DateTime.Now.Date)
+            {
+                ModelState.AddModelError("Fecha", "La fecha no puede ser en el pasado.");
+            }
+
+            // Validación: La duración debe ser positiva
+            if (evento.Duracion <= 0)
+            {
+                ModelState.AddModelError("Duracion", "La duración debe ser un valor positivo.");
+            }
+
+            // Validación: El cupo máximo debe ser mayor a 0
+            if (evento.CapacidadMaxima <= 0)
+            {
+                ModelState.AddModelError("CapacidadMaxima", "El cupo máximo debe ser mayor a 0.");
             }
 
             if (ModelState.IsValid)
@@ -118,6 +157,7 @@ namespace PAWMartes.Controllers
                 return RedirectToAction(nameof(Index));
             }
             ViewData["CategoriaId"] = new SelectList(_context.Categoria, "Id", "Descripcion", evento.CategoriaId);
+            ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña", evento.UsuarioId);
             return View(evento);
         }
 
@@ -131,6 +171,7 @@ namespace PAWMartes.Controllers
 
             var evento = await _context.Evento
                 .Include(e => e.Categoria)
+                .Include(e => e.Usuario)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (evento == null)
             {

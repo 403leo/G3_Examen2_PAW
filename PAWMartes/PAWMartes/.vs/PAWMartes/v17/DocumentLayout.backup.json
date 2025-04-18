@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|d:\\codigos paw\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|d:\\codigos paw\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -267,14 +267,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Program.cs",
-              "RelativeDocumentMoniker": "PAWMartes\\Program.cs",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Program.cs",
-              "RelativeToolTip": "PAWMartes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "PAWMartes\\Controllers\\EventoController.cs",
+              "ToolTip": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "PAWMartes\\Controllers\\EventoController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAA0wHoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T03:25:37.92Z",
+              "WhenOpened": "2025-04-18T04:38:55.264Z",
               "EditorCaption": ""
             }
           ]
