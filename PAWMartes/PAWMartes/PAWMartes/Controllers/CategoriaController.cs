@@ -49,7 +49,7 @@ namespace PAWMartes.Controllers
         public IActionResult Create()
         {
            // Se tiene que obtener el usuario actual AQUI para ponerlo automaticamente
-            ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña");
+            //ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña");
             return View();
         }
 
@@ -58,8 +58,18 @@ namespace PAWMartes.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Nombre,Descripcion,Estado,UsuarioId")] Categoria categoria)
+        public async Task<IActionResult> Create([Bind("Id,Nombre,Descripcion,Estado")] Categoria categoria)
         {
+            // Se tiene que obtener el usuario desde la sesion
+            var username = HttpContext.Session.GetString("usuario");
+            var usuario = _context.Usuario.FirstOrDefault(u => u.Username == username);
+            if (usuario == null)
+            {
+                return RedirectToAction("Index", "Evento");
+            }
+            // Se asigna el usuario actual en la sesion
+            categoria.UsuarioId = usuario.Id;
+
             categoria.FechaRegistro = DateTime.Now;
             if (ModelState.IsValid)
             {
@@ -67,7 +77,7 @@ namespace PAWMartes.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña", categoria.UsuarioId);
+            //ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña", categoria.UsuarioId);
             return View(categoria);
         }
 
@@ -79,12 +89,13 @@ namespace PAWMartes.Controllers
                 return NotFound();
             }
 
+
             var categoria = await _context.Categoria.FindAsync(id);
             if (categoria == null)
             {
                 return NotFound();
             }
-            ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña", categoria.UsuarioId);
+            //ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña", categoria.UsuarioId);
             return View(categoria);
         }
 
@@ -99,6 +110,15 @@ namespace PAWMartes.Controllers
             {
                 return NotFound();
             }
+            // Se tiene que obtener el usuario desde la sesion
+            var username = HttpContext.Session.GetString("usuario");
+            var usuario = _context.Usuario.FirstOrDefault(u => u.Username == username);
+            if (usuario == null)
+            {
+                return RedirectToAction("Index", "Evento");
+            }
+            // Se asigna el usuario actual en la sesion
+            categoria.UsuarioId = usuario.Id;
 
             if (ModelState.IsValid)
             {
@@ -120,7 +140,7 @@ namespace PAWMartes.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña", categoria.UsuarioId);
+            //ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña", categoria.UsuarioId);
             return View(categoria);
         }
 

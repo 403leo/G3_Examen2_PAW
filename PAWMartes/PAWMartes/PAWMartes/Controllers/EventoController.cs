@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using PAWMartes.Models;
+using PAWMartes.Services;
 
 namespace PAWMartes.Controllers
 {
@@ -49,7 +50,7 @@ namespace PAWMartes.Controllers
         public IActionResult Create()
         {
             ViewData["CategoriaId"] = new SelectList(_context.Categoria, "Id", "Descripcion");
-            ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña");
+            //ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña");
             return View();
         }
 
@@ -58,8 +59,18 @@ namespace PAWMartes.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Titulo,Descripcion,Fecha,Hora,Duracion,Ubicacion,CategoriaId,UsuarioId,CapacidadMaxima")] Evento evento)
+        public async Task<IActionResult> Create([Bind("Id,Titulo,Descripcion,Fecha,Hora,Duracion,Ubicacion,CategoriaId,CapacidadMaxima")] Evento evento)
         {
+            // Se tiene que obtener el usuario desde la sesion
+            var username = HttpContext.Session.GetString("usuario");
+            var usuario = _context.Usuario.FirstOrDefault(u => u.Username == username);
+            if (usuario == null)
+            {
+                return RedirectToAction("Index", "Evento");
+            }
+            // Se asigna el usuario actual en la sesion
+            evento.UsuarioId = usuario.Id;
+
             // Validación: La fecha no debe ser en el pasado
             if (evento.Fecha < DateTime.Now.Date)
             {
@@ -85,7 +96,7 @@ namespace PAWMartes.Controllers
                 return RedirectToAction(nameof(Index));
             }
             ViewData["CategoriaId"] = new SelectList(_context.Categoria, "Id", "Descripcion", evento.CategoriaId);
-            ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña", evento.UsuarioId);
+            //ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña", evento.UsuarioId);
             return View(evento);
         }
 
@@ -103,7 +114,7 @@ namespace PAWMartes.Controllers
                 return NotFound();
             }
             ViewData["CategoriaId"] = new SelectList(_context.Categoria, "Id", "Descripcion", evento.CategoriaId);
-            ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña", evento.UsuarioId);
+            //ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña", evento.UsuarioId);
             return View(evento);
         }
 
@@ -112,12 +123,24 @@ namespace PAWMartes.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Titulo,Descripcion,Fecha,Hora,Duracion,Ubicacion,CategoriaId,UsuarioId,CapacidadMaxima,fechaRegistro")] Evento evento)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Titulo,Descripcion,Fecha,Hora,Duracion,Ubicacion,CategoriaId,CapacidadMaxima,fechaRegistro")] Evento evento)
         {
             if (id != evento.Id)
             {
                 return NotFound();
             }
+
+            // Se tiene que obtener el usuario desde la sesion
+            var username = HttpContext.Session.GetString("usuario");
+            var usuario = _context.Usuario.FirstOrDefault(u => u.Username == username);
+            if (usuario == null)
+            {
+                return RedirectToAction("Index", "Evento");
+            }
+            // Se asigna el usuario actual en la sesion
+            evento.UsuarioId = usuario.Id;
+
+
             // Validación: La fecha no debe ser en el pasado
             if (evento.Fecha < DateTime.Now.Date)
             {
@@ -157,7 +180,7 @@ namespace PAWMartes.Controllers
                 return RedirectToAction(nameof(Index));
             }
             ViewData["CategoriaId"] = new SelectList(_context.Categoria, "Id", "Descripcion", evento.CategoriaId);
-            ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña", evento.UsuarioId);
+            //ViewData["UsuarioId"] = new SelectList(_context.Usuario, "Id", "Contraseña", evento.UsuarioId);
             return View(evento);
         }
 
@@ -202,3 +225,160 @@ namespace PAWMartes.Controllers
         }
     }
 }
+
+//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Threading.Tasks;
+//using Microsoft.AspNetCore.Mvc;
+//using Microsoft.AspNetCore.Mvc.Rendering;
+//using Microsoft.EntityFrameworkCore;
+//using PAWMartes.Models;
+//using PAWMartes.Services;
+
+//namespace PAWMartes.Controllers
+//{
+//    public class EventoController : Controller
+//    {
+//        private readonly IEventosServices _eventoService;
+
+//        public EventoController(IEventosServices eventoService)
+//        {
+//            _eventoService = eventoService;
+//        }
+
+//        // GET: Evento
+//        public async Task<IActionResult> Index()
+//        {
+//            var eventos = await _eventoService.obtenerTodosEventos();
+//            return View(eventos);
+//        }
+
+//        // GET: Evento/Details/5
+//        public async Task<IActionResult> Details(int? id)
+//        {
+//            if (id == null)
+//            {
+//                return NotFound();
+//            }
+
+//            var evento = await _eventoService.obtenerEvento(id);
+//            if (evento == null)
+//            {
+//                return NotFound();
+//            }
+
+//            return View(evento);
+//        }
+
+//        // GET: Evento/Create
+//        public async Task<IActionResult> Create()
+//        {
+//            var categorias = await _eventoService.obtenerCategorias();
+//            var usuarios = await _eventoService.obtenerUsuarios();
+
+//            ViewData["IdCategoria"] = new SelectList(categorias, "IdCategoria", "NombreCategoria");
+//            ViewData["IdUsuario"] = new SelectList(usuarios, "IdUsuario", "Nombre");
+
+//            return View();
+//        }
+
+//        // POST: Evento/Create
+//        [HttpPost]
+//        [ValidateAntiForgeryToken]
+//        public async Task<IActionResult> Create([Bind("Id,NombreEvento,DescripcionEvento,FechaEvento,IdCategoria,IdUsuario")] Evento evento)
+//        {
+//            if (ModelState.IsValid)
+//            {
+//                await _eventoService.crearEvento(evento);
+//                return RedirectToAction(nameof(Index));
+//            }
+
+//            var categorias = await _eventoService.obtenerCategorias();
+//            var usuarios = await _eventoService.obtenerUsuarios();
+
+//            ViewData["IdCategoria"] = new SelectList(categorias, "IdCategoria", "NombreCategoria", evento.CategoriaId);
+//            ViewData["IdUsuario"] = new SelectList(usuarios, "IdUsuario", "Nombre", evento.UsuarioId);
+//            return View(evento);
+//        }
+
+//        // GET: Evento/Edit/5
+//        public async Task<IActionResult> Edit(int? id)
+//        {
+//            if (id == null)
+//            {
+//                return NotFound();
+//            }
+
+//            var evento = await _eventoService.obtenerEventoPorId(id);
+//            if (evento == null)
+//            {
+//                return NotFound();
+//            }
+
+//            var categorias = await _eventoService.obtenerCategorias();
+//            var usuarios = await _eventoService.obtenerUsuarios();
+
+//            ViewData["IdCategoria"] = new SelectList(categorias, "IdCategoria", "NombreCategoria", evento.CategoriaId);
+//            ViewData["IdUsuario"] = new SelectList(usuarios, "IdUsuario", "Nombre", evento.UsuarioId);
+
+//            return View(evento);
+//        }
+
+//        // POST: Evento/Edit/5
+//        [HttpPost]
+//        [ValidateAntiForgeryToken]
+//        public async Task<IActionResult> Edit(int id, [Bind("Id,NombreEvento,DescripcionEvento,FechaEvento,IdCategoria,IdUsuario")] Evento evento)
+//        {
+//            if (id != evento.Id)
+//            {
+//                return NotFound();
+//            }
+
+//            if (ModelState.IsValid)
+//            {
+//                var actualizado = await _eventoService.actualizarEvento(evento);
+//                if (!actualizado)
+//                {
+//                    return NotFound();
+//                }
+//                return RedirectToAction(nameof(Index));
+//            }
+
+//            var categorias = await _eventoService.obtenerCategorias();
+//            var usuarios = await _eventoService.obtenerUsuarios();
+
+//            ViewData["IdCategoria"] = new SelectList(categorias, "IdCategoria", "NombreCategoria", evento.CategoriaId);
+//            ViewData["IdUsuario"] = new SelectList(usuarios, "IdUsuario", "Nombre", evento.UsuarioId);
+
+//            return View(evento);
+//        }
+
+//        // GET: Evento/Delete/5
+//        public async Task<IActionResult> Delete(int? id)
+//        {
+//            if (id == null)
+//            {
+//                return NotFound();
+//            }
+
+//            var evento = await _eventoService.obtenerEvento(id);
+//            if (evento == null)
+//            {
+//                return NotFound();
+//            }
+
+//            return View(evento);
+//        }
+
+//        // POST: Evento/Delete/5
+//        [HttpPost, ActionName("Delete")]
+//        [ValidateAntiForgeryToken]
+//        public async Task<IActionResult> DeleteConfirmed(int id)
+//        {
+//            await _eventoService.eliminarEvento(id);
+//            return RedirectToAction(nameof(Index));
+//        }
+//    }
+//}
+

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesAPI\\PAWMartesAPI.csproj": {}
+    "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesAPI\\PAWMartesAPI.csproj": {}
   },
   "projects": {
-    "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesAPI\\PAWMartesAPI.csproj": {
+    "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesAPI\\PAWMartesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesAPI\\PAWMartesAPI.csproj",
+        "projectUniqueName": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesAPI\\PAWMartesAPI.csproj",
         "projectName": "PAWMartesAPI",
-        "projectPath": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesAPI\\PAWMartesAPI.csproj",
-        "packagesPath": "C:\\Users\\estiv\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesAPI\\obj\\",
+        "projectPath": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesAPI\\PAWMartesAPI.csproj",
+        "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
+        "outputPath": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\estiv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWMartesModels.csproj": {
-                "projectPath": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWMartesModels.csproj"
+              "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWMartesModels.csproj": {
+                "projectPath": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWMartesModels.csproj"
               }
             }
           }
@@ -94,17 +94,17 @@
         }
       }
     },
-    "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWMartesModels.csproj": {
+    "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWMartesModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWMartesModels.csproj",
+        "projectUniqueName": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWMartesModels.csproj",
         "projectName": "PAWMartesModels",
-        "projectPath": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWMartesModels.csproj",
-        "packagesPath": "C:\\Users\\estiv\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\obj\\",
+        "projectPath": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\PAWMartesModels.csproj",
+        "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
+        "outputPath": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\estiv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
