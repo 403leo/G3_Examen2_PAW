@@ -1,38 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\",
+  "WorkspaceRootPath": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\shared\\_layoutplant02.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\shared\\_layoutplant02.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|d:\\codigos paw\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\evento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\evento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|d:\\codigos paw\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|d:\\codigos paw\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\evento\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\evento\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|d:\\codigos paw\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\services\\ieventosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\services\\ieventosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\usuario\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\usuario\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|d:\\codigos paw\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\services\\eventoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\services\\eventoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,48 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1871,
-          "SelectedChildIndex": 64,
+          "SelectedChildIndex": 65,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d562c6a0-d2fe-4c19-a8b3-e5cbc09bf375}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{5c82a791-7c9f-441e-952b-8848655dd85e}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
@@ -91,6 +39,14 @@
             {
               "$type": "Bookmark",
               "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -274,6 +230,14 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
@@ -286,115 +250,105 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d562c6a0-d2fe-4c19-a8b3-e5cbc09bf375}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5c82a791-7c9f-441e-952b-8848655dd85e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "PAWMartes\\Views\\_ViewImports.cshtml",
-              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "PAWMartes\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T09:23:12.579Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "PAWMartes\\Views\\_ViewStart.cshtml",
-              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "PAWMartes\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T09:23:11.216Z",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Program.cs",
+              "RelativeDocumentMoniker": "PAWMartes\\Program.cs",
+              "ToolTip": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Program.cs",
+              "RelativeToolTip": "PAWMartes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T04:47:01.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_LayoutPlant02.cshtml",
-              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Shared\\_LayoutPlant02.cshtml",
-              "RelativeDocumentMoniker": "PAWMartes\\Views\\Shared\\_LayoutPlant02.cshtml",
-              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Shared\\_LayoutPlant02.cshtml",
-              "RelativeToolTip": "PAWMartes\\Views\\Shared\\_LayoutPlant02.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAAVAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\Index.cshtml",
+              "RelativeDocumentMoniker": "PAWMartes\\Views\\Evento\\Index.cshtml",
+              "ToolTip": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\Index.cshtml*",
+              "RelativeToolTip": "PAWMartes\\Views\\Evento\\Index.cshtml*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAqwEsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T09:20:57.275Z",
+              "WhenOpened": "2025-04-20T04:46:20.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Usuario\\Create.cshtml",
-              "RelativeDocumentMoniker": "PAWMartes\\Views\\Usuario\\Create.cshtml",
-              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Usuario\\Create.cshtml",
-              "RelativeToolTip": "PAWMartes\\Views\\Usuario\\Create.cshtml",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHEAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T09:10:10.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Usuario\\Details.cshtml",
-              "RelativeDocumentMoniker": "PAWMartes\\Views\\Usuario\\Details.cshtml",
-              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Usuario\\Details.cshtml",
-              "RelativeToolTip": "PAWMartes\\Views\\Usuario\\Details.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\Details.cshtml",
+              "RelativeDocumentMoniker": "PAWMartes\\Views\\Evento\\Details.cshtml",
+              "ToolTip": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\Details.cshtml",
+              "RelativeToolTip": "PAWMartes\\Views\\Evento\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T09:09:00.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T23:26:41.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEventosServices.cs",
+              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Services\\IEventosServices.cs",
+              "RelativeDocumentMoniker": "PAWMartes\\Services\\IEventosServices.cs",
+              "ToolTip": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Services\\IEventosServices.cs",
+              "RelativeToolTip": "PAWMartes\\Services\\IEventosServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T23:22:23.617Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Usuario\\Edit.cshtml",
-              "RelativeDocumentMoniker": "PAWMartes\\Views\\Usuario\\Edit.cshtml",
-              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Usuario\\Edit.cshtml",
-              "RelativeToolTip": "PAWMartes\\Views\\Usuario\\Edit.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T09:08:20.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Lista.cshtml",
-              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Usuario\\Lista.cshtml",
-              "RelativeDocumentMoniker": "PAWMartes\\Views\\Usuario\\Lista.cshtml",
-              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Usuario\\Lista.cshtml",
-              "RelativeToolTip": "PAWMartes\\Views\\Usuario\\Lista.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T09:06:11.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PAWMartes\\Views\\Home\\Index.cshtml",
-              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PAWMartes\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T09:06:04.128Z",
-              "EditorCaption": ""
+              "Title": "EventoServices.cs",
+              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Services\\EventoServices.cs",
+              "RelativeDocumentMoniker": "PAWMartes\\Services\\EventoServices.cs",
+              "ToolTip": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Services\\EventoServices.cs",
+              "RelativeToolTip": "PAWMartes\\Services\\EventoServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T23:22:21.337Z"
             }
           ]
         },
@@ -402,10 +356,6 @@
           "DockedWidth": 911,
           "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -416,10 +366,6 @@
           "DockedWidth": 1371,
           "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
