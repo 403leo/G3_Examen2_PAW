@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F6A2D70-1008-469C-9911-F798E7B444CB}|PAWMartesAPI\\PAWMartesAPI.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartesapi\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6A2D70-1008-469C-9911-F798E7B444CB}|PAWMartesAPI\\PAWMartesAPI.csproj|solutionrelative:pawmartesapi\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6A2D70-1008-469C-9911-F798E7B444CB}|PAWMartesAPI\\PAWMartesAPI.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F6A2D70-1008-469C-9911-F798E7B444CB}|PAWMartesAPI\\PAWMartesAPI.csproj|solutionrelative:pawmartesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A700C9-FFA8-4F13-8CD6-7E4D18C9FF7C}|PAWMartesModels\\PAWMartesModels.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartesmodels\\asistente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A700C9-FFA8-4F13-8CD6-7E4D18C9FF7C}|PAWMartesModels\\PAWMartesModels.csproj|solutionrelative:pawmartesmodels\\asistente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\usuario\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\usuario\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{A6A700C9-FFA8-4F13-8CD6-7E4D18C9FF7C}|PAWMartesModels\\PAWMartesModels.csproj|solutionrelative:pawmartesmodels\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6A700C9-FFA8-4F13-8CD6-7E4D18C9FF7C}|PAWMartesModels\\PAWMartesModels.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartesmodels\\asistente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A700C9-FFA8-4F13-8CD6-7E4D18C9FF7C}|PAWMartesModels\\PAWMartesModels.csproj|solutionrelative:pawmartesmodels\\asistente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\shared\\_encabezado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\shared\\_encabezado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -49,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\evento\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\evento\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|f:\\c# universidad\\2025\\examen2\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1871,
-          "SelectedChildIndex": 65,
+          "SelectedChildIndex": 66,
           "Children": [
             {
               "$type": "Bookmark",
@@ -342,54 +354,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Lista.cshtml",
-              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Usuario\\Lista.cshtml",
-              "RelativeDocumentMoniker": "PAWMartes\\Views\\Usuario\\Lista.cshtml",
-              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Usuario\\Lista.cshtml",
-              "RelativeToolTip": "PAWMartes\\Views\\Usuario\\Lista.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T20:56:44.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Usuario\\Edit.cshtml",
-              "RelativeDocumentMoniker": "PAWMartes\\Views\\Usuario\\Edit.cshtml",
-              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Usuario\\Edit.cshtml",
-              "RelativeToolTip": "PAWMartes\\Views\\Usuario\\Edit.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAQwCkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T20:54:07.855Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PAWMartesAPI\\appsettings.json",
+              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesAPI\\appsettings.json",
+              "RelativeToolTip": "PAWMartesAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T22:38:08.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Asistente.cs",
-              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\Asistente.cs",
-              "RelativeDocumentMoniker": "PAWMartesModels\\Asistente.cs",
-              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\Asistente.cs",
-              "RelativeToolTip": "PAWMartesModels\\Asistente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesAPI\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "PAWMartesAPI\\Controllers\\EventoController.cs",
+              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesAPI\\Controllers\\EventoController.cs*",
+              "RelativeToolTip": "PAWMartesAPI\\Controllers\\EventoController.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:35:29.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DashboardViewModel.cs",
-              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\ViewModels\\DashboardViewModel.cs",
-              "RelativeDocumentMoniker": "PAWMartes\\ViewModels\\DashboardViewModel.cs",
-              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\ViewModels\\DashboardViewModel.cs",
-              "RelativeToolTip": "PAWMartes\\ViewModels\\DashboardViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:02:46.739Z",
+              "WhenOpened": "2025-04-21T22:28:20.224Z",
               "EditorCaption": ""
             },
             {
@@ -400,7 +386,7 @@
               "RelativeDocumentMoniker": "PAWMartes\\Views\\Admin\\Index.cshtml",
               "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Admin\\Index.cshtml",
               "RelativeToolTip": "PAWMartes\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwFYAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-21T19:58:46.07Z",
               "EditorCaption": ""
@@ -408,6 +394,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "PAWMartes\\Controllers\\UsuarioController.cs",
+              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "PAWMartes\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAIMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:56:18.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Usuario\\Lista.cshtml",
+              "RelativeDocumentMoniker": "PAWMartes\\Views\\Usuario\\Lista.cshtml",
+              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Usuario\\Lista.cshtml",
+              "RelativeToolTip": "PAWMartes\\Views\\Usuario\\Lista.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T20:56:44.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Usuario\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PAWMartes\\Views\\Usuario\\Edit.cshtml",
+              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Usuario\\Edit.cshtml",
+              "RelativeToolTip": "PAWMartes\\Views\\Usuario\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T20:54:07.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Asistente.cs",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\Asistente.cs",
+              "RelativeDocumentMoniker": "PAWMartesModels\\Asistente.cs",
+              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\Asistente.cs",
+              "RelativeToolTip": "PAWMartesModels\\Asistente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:35:29.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Usuario\\Index.cshtml",
               "RelativeDocumentMoniker": "PAWMartes\\Views\\Usuario\\Index.cshtml",
@@ -415,12 +450,11 @@
               "RelativeToolTip": "PAWMartes\\Views\\Usuario\\Index.cshtml",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAEoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T19:56:55.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T19:56:55.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Usuario.cs",
               "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartesModels\\Usuario.cs",
               "RelativeDocumentMoniker": "PAWMartesModels\\Usuario.cs",
@@ -428,12 +462,11 @@
               "RelativeToolTip": "PAWMartesModels\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T19:52:41.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T19:52:41.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "AdminController.cs",
               "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "PAWMartes\\Controllers\\AdminController.cs",
@@ -441,12 +474,11 @@
               "RelativeToolTip": "PAWMartes\\Controllers\\AdminController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAqwCkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T19:48:38.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T19:48:38.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PAWMartes\\Views\\Home\\Index.cshtml",
@@ -454,12 +486,11 @@
               "RelativeToolTip": "PAWMartes\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T19:33:44.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T19:33:44.897Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "_Encabezado.cshtml",
               "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Shared\\_Encabezado.cshtml",
               "RelativeDocumentMoniker": "PAWMartes\\Views\\Shared\\_Encabezado.cshtml",
@@ -467,12 +498,36 @@
               "RelativeToolTip": "PAWMartes\\Views\\Shared\\_Encabezado.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T19:33:33.521Z",
+              "WhenOpened": "2025-04-21T19:33:33.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\appsettings.json",
+              "RelativeDocumentMoniker": "PAWMartes\\appsettings.json",
+              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\appsettings.json",
+              "RelativeToolTip": "PAWMartes\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T19:21:00.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "PAWMartes\\ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "PAWMartes\\ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:02:46.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Details.cshtml",
               "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\Details.cshtml",
               "RelativeDocumentMoniker": "PAWMartes\\Views\\Evento\\Details.cshtml",
@@ -480,25 +535,11 @@
               "RelativeToolTip": "PAWMartes\\Views\\Evento\\Details.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAE0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T19:30:18.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T19:30:18.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\appsettings.json",
-              "RelativeDocumentMoniker": "PAWMartes\\appsettings.json",
-              "ToolTip": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\appsettings.json",
-              "RelativeToolTip": "PAWMartes\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-21T19:21:00.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "VerInscritosAdmin.cshtml",
               "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\VerInscritosAdmin.cshtml",
               "RelativeDocumentMoniker": "PAWMartes\\Views\\Evento\\VerInscritosAdmin.cshtml",
@@ -510,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Inscripcion.cshtml",
               "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\Inscripcion.cshtml",
               "RelativeDocumentMoniker": "PAWMartes\\Views\\Evento\\Inscripcion.cshtml",
@@ -522,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "EventoController.cs",
               "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Controllers\\EventoController.cs",
               "RelativeDocumentMoniker": "PAWMartes\\Controllers\\EventoController.cs",
@@ -530,12 +571,11 @@
               "RelativeToolTip": "PAWMartes\\Controllers\\EventoController.cs",
               "ViewState": "AgIAAC0BAAAAAAAAAAAwwC0BAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T17:18:16.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T17:18:16.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\Index.cshtml",
               "RelativeDocumentMoniker": "PAWMartes\\Views\\Evento\\Index.cshtml",
@@ -543,12 +583,11 @@
               "RelativeToolTip": "PAWMartes\\Views\\Evento\\Index.cshtml",
               "ViewState": "AgIAADwAAAAAAAAAAAAAAFkAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T17:26:07.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T17:26:07.699Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "VerInscritos.cshtml",
               "DocumentMoniker": "F:\\C# Universidad\\2025\\Examen2\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\VerInscritos.cshtml",
               "RelativeDocumentMoniker": "PAWMartes\\Views\\Evento\\VerInscritos.cshtml",

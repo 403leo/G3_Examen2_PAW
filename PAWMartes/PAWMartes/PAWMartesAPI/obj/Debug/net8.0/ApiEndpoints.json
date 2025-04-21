@@ -1,42 +1,36 @@
 [
   {
-    "ContainingType": "PAWMartesAPI.Controllers.LoginController",
-    "Method": "ObtenerUsuario",
-    "RelativePath": "api/Login",
-    "HttpMethod": "POST",
+    "ContainingType": "PAWMartesAPI.Controllers.EventoController",
+    "Method": "GetAllEventos",
+    "RelativePath": "api/Evento",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [
+    "Parameters": [],
+    "ReturnTypes": [
       {
-        "Name": "Usu",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Pass",
-        "Type": "System.String",
-        "IsRequired": false
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[PAWMartes.Models.Evento, PAWMartesModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
       }
-    ],
-    "ReturnTypes": []
+    ]
   },
   {
-    "ContainingType": "PAWMartesAPI.Controllers.LoginController",
-    "Method": "Login",
-    "RelativePath": "api/Login/Login",
+    "ContainingType": "PAWMartesAPI.Controllers.EventoController",
+    "Method": "GetEventoById",
+    "RelativePath": "api/Evento/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "Usuario",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Contrase\u00F1a",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
