@@ -108,7 +108,7 @@ namespace PAWMartes.Controllers
         // POST: Usuario/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(int id, [Bind("Id,Username,Nombre,Correo,Telefono,Contraseña,Rol")] Usuario usuario)
+        public IActionResult Edit(int id, [Bind("Id,Username,Nombre,Correo,Telefono,Contraseña,Rol,IsActive")] Usuario usuario)
         {
             if (id != usuario.Id)
             {
@@ -133,7 +133,7 @@ namespace PAWMartes.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Lista));
             }
 
             return View(usuario);

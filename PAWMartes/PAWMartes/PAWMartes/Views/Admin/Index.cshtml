@@ -1,0 +1,112 @@
+﻿@{
+
+    Layout = "_LayoutPlant02";
+}
+
+@model PAWMartes.ViewModels.DashboardViewModel
+
+
+
+<h2>Panel de Administración</h2>
+
+<div>
+    <p><strong>Total de Eventos:</strong> @Model.TotalEventos</p>
+    <p><strong>Asistentes este mes:</strong> @Model.AsistentesMesActual</p>
+    <p><strong>No Asistieron este mes:</strong> @Model.NoAsistentesMesActual</p>
+    <p><strong>Usuarios Activos:</strong> @Model.TotalUsuariosActivos</p>
+    <p><strong>Usuarios Inactivos:</strong> @Model.TotalUsuariosInactivos</p>
+</div>
+
+<h3>Top 5 Eventos más Populares</h3>
+<canvas id="topEventosChart" width="800" height="450"></canvas>
+
+<h3>Asistencia</h3>
+<canvas id="asistentesVsNoAsistentesChart" wwidth="800" height="450"></canvas>
+
+<h3>Usuarios Activos vs Inactivos</h3>
+<canvas id="usuariosEstadoChart" width="800" height="450"></canvas>
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    // Datos para el gráfico de Asistentes vs No Asistentes este mes
+    var asistentesVsNoAsistentesData = {
+        labels: ['Asistieron', 'No Asistieron'], // Etiquetas
+        datasets: [{
+            label: 'Asistencia Este Mes',
+            data: [@Model.AsistentesMesActual, @Model.NoAsistentesMesActual], // Usamos los datos de los asistentes y no asistentes
+            backgroundColor: ['rgba(75, 192, 192, 0.2)', 'rgba(255, 99, 132, 0.2)'],
+            borderColor: ['rgba(75, 192, 192, 1)', 'rgba(255, 99, 132, 1)'],
+            borderWidth: 1
+        }]
+    };
+
+    // Crear el gráfico de Asistentes vs No Asistentes (Pie)
+    var ctxAsistentesVsNoAsistentes = document.getElementById('asistentesVsNoAsistentesChart').getContext('2d');
+    new Chart(ctxAsistentesVsNoAsistentes, {
+        type: 'pie',
+        data: asistentesVsNoAsistentesData,
+        options: {
+            responsive: false, 
+            plugins: {
+                legend: {
+                    position: 'bottom'
+                }
+            }
+        }
+    });
+
+    // Datos para el gráfico de Top 5 Eventos más Populares
+    var topEventosData = {
+        labels: @Html.Raw(Json.Serialize(Model.TopEventos.Select(e => e.Titulo))),
+        datasets: [{
+            label: 'Asistentes por Evento',
+            data: @Html.Raw(Json.Serialize(Model.TopEventos.Select(e => e.TotalAsistentes))),
+            backgroundColor: 'rgba(75, 192, 192, 0.2)',
+            borderColor: 'rgba(75, 192, 192, 1)',
+            borderWidth: 1
+        }]
+    };
+
+    // Crear el gráfico de Top 5 Eventos (Bar)
+    var ctxTopEventos = document.getElementById('topEventosChart').getContext('2d');
+    new Chart(ctxTopEventos, {
+        type: 'bar', // Tipo de gráfico: 'bar', 'line', etc.
+        data: topEventosData,
+        options: {
+            responsive: false, 
+            scales: {
+                y: { beginAtZero: true }
+            }
+        }
+    });
+
+    // Datos para el gráfico de Usuarios Activos vs Inactivos
+    var usuariosEstadoData = {
+        labels: ['Activos', 'Inactivos'],
+        datasets: [{
+            label: 'Estado de Usuarios',
+            data: [@Model.TotalUsuariosActivos, @Model.TotalUsuariosInactivos],
+            backgroundColor: ['rgba(54, 162, 235, 0.5)', 'rgba(255, 99, 132, 0.5)'],
+            borderColor: ['rgba(54, 162, 235, 1)', 'rgba(255, 99, 132, 1)'],
+            borderWidth: 1
+        }]
+    };
+
+    var ctxUsuariosEstado = document.getElementById('usuariosEstadoChart').getContext('2d');
+    new Chart(ctxUsuariosEstado, {
+        type: 'pie',
+        data: usuariosEstadoData,
+        options: {
+            responsive: false,
+            plugins: {
+                legend: {
+                    position: 'bottom'
+                }
+            }
+        }
+    });
+
+</script>
+

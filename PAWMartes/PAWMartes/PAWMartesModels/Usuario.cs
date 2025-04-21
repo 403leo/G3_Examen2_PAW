@@ -11,6 +11,7 @@ namespace PAWMartes.Models
         public string Telefono { get; set; }
         public string Contraseña { get; set; }
         public string Rol { get; set; }
+        public bool IsActive { get; set; } = true;
         // Relaciones objetos
         // Se pone un ? porque un usuario no tiene que necesariamente hacer una categoria
         public IEnumerable<Categoria>? Categorias { get; set; }
