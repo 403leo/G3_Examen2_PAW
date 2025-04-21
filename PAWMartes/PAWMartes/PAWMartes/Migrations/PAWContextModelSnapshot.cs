@@ -159,6 +159,9 @@ namespace PAWMartes.Migrations
                         .IsUnicode(true)
                         .HasColumnType("nvarchar(300)");
 
+                    b.Property<bool>("IsActive")
+                        .HasColumnType("bit");
+
                     b.Property<string>("Nombre")
                         .IsRequired()
                         .HasMaxLength(250)
