@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\",
+  "WorkspaceRootPath": "C:\\Users\\Paula\\Documents\\GitHub\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|d:\\codigos paw\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\evento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|c:\\users\\paula\\documents\\github\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|c:\\users\\paula\\documents\\github\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\evento\\verinscritos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\evento\\verinscritos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|c:\\users\\paula\\documents\\github\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\evento\\verinscritosadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\evento\\verinscritosadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|c:\\users\\paula\\documents\\github\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\evento\\inscripcion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\evento\\inscripcion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|c:\\users\\paula\\documents\\github\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\evento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\evento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|d:\\codigos paw\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|d:\\codigos paw\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\views\\evento\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\views\\evento\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|d:\\codigos paw\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\services\\ieventosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\services\\ieventosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|d:\\codigos paw\\g3_examen2_paw\\pawmartes\\pawmartes\\pawmartes\\services\\eventoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2425122C-8146-458F-908E-384745573A29}|PAWMartes\\PAWMartes.csproj|solutionrelative:pawmartes\\services\\eventoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1871,
-          "SelectedChildIndex": 65,
+          "SelectedChildIndex": 67,
           "Children": [
             {
               "$type": "Bookmark",
@@ -278,6 +278,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
@@ -290,65 +294,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Program.cs",
-              "RelativeDocumentMoniker": "PAWMartes\\Program.cs",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Program.cs",
-              "RelativeToolTip": "PAWMartes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T04:47:01.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\Index.cshtml",
-              "RelativeDocumentMoniker": "PAWMartes\\Views\\Evento\\Index.cshtml",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\Index.cshtml",
-              "RelativeToolTip": "PAWMartes\\Views\\Evento\\Index.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAqwEsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T04:46:20.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\Details.cshtml",
-              "RelativeDocumentMoniker": "PAWMartes\\Views\\Evento\\Details.cshtml",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\Details.cshtml",
-              "RelativeToolTip": "PAWMartes\\Views\\Evento\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAgAAAAAAAAAA==",
+              "Title": "VerInscritosAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Paula\\Documents\\GitHub\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\VerInscritosAdmin.cshtml",
+              "RelativeDocumentMoniker": "PAWMartes\\Views\\Evento\\VerInscritosAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Paula\\Documents\\GitHub\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\VerInscritosAdmin.cshtml",
+              "RelativeToolTip": "PAWMartes\\Views\\Evento\\VerInscritosAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T23:26:41.197Z"
+              "WhenOpened": "2025-04-21T18:55:03.503Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IEventosServices.cs",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Services\\IEventosServices.cs",
-              "RelativeDocumentMoniker": "PAWMartes\\Services\\IEventosServices.cs",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Services\\IEventosServices.cs",
-              "RelativeToolTip": "PAWMartes\\Services\\IEventosServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Title": "Inscripcion.cshtml",
+              "DocumentMoniker": "C:\\Users\\Paula\\Documents\\GitHub\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\Inscripcion.cshtml",
+              "RelativeDocumentMoniker": "PAWMartes\\Views\\Evento\\Inscripcion.cshtml",
+              "ToolTip": "C:\\Users\\Paula\\Documents\\GitHub\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\Inscripcion.cshtml",
+              "RelativeToolTip": "PAWMartes\\Views\\Evento\\Inscripcion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T17:10:58.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "C:\\Users\\Paula\\Documents\\GitHub\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "PAWMartes\\Controllers\\EventoController.cs",
+              "ToolTip": "C:\\Users\\Paula\\Documents\\GitHub\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "PAWMartes\\Controllers\\EventoController.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAwwC0BAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T23:22:23.617Z"
+              "WhenOpened": "2025-04-21T17:18:16.837Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "EventoServices.cs",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Services\\EventoServices.cs",
-              "RelativeDocumentMoniker": "PAWMartes\\Services\\EventoServices.cs",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Services\\EventoServices.cs",
-              "RelativeToolTip": "PAWMartes\\Services\\EventoServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T23:22:21.337Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Paula\\Documents\\GitHub\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\Index.cshtml",
+              "RelativeDocumentMoniker": "PAWMartes\\Views\\Evento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Paula\\Documents\\GitHub\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\Index.cshtml",
+              "RelativeToolTip": "PAWMartes\\Views\\Evento\\Index.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T17:26:07.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VerInscritos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Paula\\Documents\\GitHub\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\VerInscritos.cshtml",
+              "RelativeDocumentMoniker": "PAWMartes\\Views\\Evento\\VerInscritos.cshtml",
+              "ToolTip": "C:\\Users\\Paula\\Documents\\GitHub\\G3_Examen2_PAW\\PAWMartes\\PAWMartes\\PAWMartes\\Views\\Evento\\VerInscritos.cshtml",
+              "RelativeToolTip": "PAWMartes\\Views\\Evento\\VerInscritos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T17:20:38.59Z",
+              "EditorCaption": ""
             }
           ]
         },

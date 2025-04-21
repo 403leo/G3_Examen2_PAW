@@ -1,0 +1,54 @@
+﻿@model IEnumerable<PAWMartes.Models.Evento>
+
+<h2>Eventos y Usuarios Inscritos</h2>
+
+<!-- Mostrar el mensaje de éxito si se marca la asistencia -->
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Success"]
+    </div>
+}
+
+@foreach (var evento in Model)
+{
+    <h3>@evento.Titulo</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Fecha de Inscripción</th>
+                <th>Asistencia</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var asistente in evento.Asistentes)
+            {
+                <tr id="asistente-@asistente.Id">
+                    <td>@asistente.Usuario.Nombre</td>
+                    <td>@asistente.FechaInscripcion.ToString("dd/MM/yyyy")</td>
+                    <td>
+                        @if (asistente.Asistencia)
+                        {
+                            <span class="badge badge-success" style="color: black;">Asistió</span>
+                        }
+                        else
+                        {
+                            <span class="badge badge-danger" style="color: black;">No Asistió</span>
+                        }
+                    </td>
+                    <td>
+                        @if (!asistente.Asistencia)
+                        {
+                            <!-- Botón para marcar asistencia -->
+                            <a href="@Url.Action("MarcarAsistencia", "Evento", new { eventoId = evento.Id, asistenteId = asistente.Id })" class="btn btn-primary">Marcar Asistencia</a>
+ 
+                 
+    }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+}
