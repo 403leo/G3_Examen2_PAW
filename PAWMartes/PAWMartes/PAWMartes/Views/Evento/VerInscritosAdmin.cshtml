@@ -1,0 +1,27 @@
+﻿@model IEnumerable<PAWMartes.Models.Evento>
+
+<h2>Eventos y Usuarios Inscritos</h2>
+
+@foreach (var evento in Model)
+{
+    <h3>@evento.Titulo</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Fecha de Inscripción</th>
+             
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var asistente in evento.Asistentes)
+            {
+                <tr>
+                    <td>@asistente.Usuario.Nombre</td>
+                    <td>@asistente.FechaInscripcion.ToString("dd/MM/yyyy")</td>
+                   
+                </tr>
+            }
+        </tbody>
+    </table>
+}

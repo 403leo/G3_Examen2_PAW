@@ -223,6 +223,160 @@ namespace PAWMartes.Controllers
         {
             return _context.Evento.Any(e => e.Id == id);
         }
+
+        public async Task<IActionResult> Inscripcion(int eventoId)
+        {
+            var evento = await _context.Evento
+                .Include(e => e.Asistentes)
+                .FirstOrDefaultAsync(e => e.Id == eventoId);
+
+            if (evento == null)
+            {
+                return NotFound();
+            }
+
+            var usuario = _context.Usuario.FirstOrDefault(u => u.Username == HttpContext.Session.GetString("usuario"));
+
+            if (usuario == null)
+            {
+                return RedirectToAction("Index", "Usuario");  // Redirige al login si no está logueado
+            }
+
+            // Verificamos si el usuario ya tiene un evento en la misma fecha y hora
+            var overlappingEvent = await _context.Asistente
+                .Include(a => a.Evento)
+                .Where(a => a.UsuarioId == usuario.Id && a.Evento.Fecha == evento.Fecha && a.Evento.Hora == evento.Hora)
+                .FirstOrDefaultAsync();
+
+            if (overlappingEvent != null)
+            {
+                TempData["Error"] = "Ya tienes un evento en la misma fecha y hora.";
+                return RedirectToAction("Index", "Evento");
+            }
+
+            // Verificamos si el evento tiene capacidad
+            if (evento.Asistentes.Count() >= evento.CapacidadMaxima)
+            {
+                TempData["Error"] = "El evento ya está lleno.";
+                return RedirectToAction("Index", "Evento");  // Redirige si está lleno
+            }
+
+            // Registrar al usuario en el evento
+            var asistente = new Asistente
+            {
+                UsuarioId = usuario.Id,
+                EventoId = eventoId,
+                FechaInscripcion = DateTime.Now,
+                FechaEvento = evento.Fecha,
+                Asistencia = false
+            };
+
+            _context.Add(asistente);
+            await _context.SaveChangesAsync();
+
+            TempData["Success"] = "Te has inscrito exitosamente al evento.";
+            return RedirectToAction("Index", "Evento");
+        }
+
+        public async Task<IActionResult> VerInscritos()
+        {
+            // Obtener el nombre del usuario logueado desde la sesión
+            var username = HttpContext.Session.GetString("usuario");
+
+            // Buscar el usuario en la base de datos
+            var usuario = await _context.Usuario.FirstOrDefaultAsync(u => u.Username == username);
+
+            if (usuario == null)
+            {
+                return RedirectToAction("Index", "Usuario");  // Si no hay usuario logueado, redirige al login
+            }
+
+            // Obtener los eventos en los que el usuario está inscrito
+            var eventosInscritos = await _context.Evento
+                .Include(e => e.Asistentes)
+                .Where(e => e.Asistentes.Any(a => a.UsuarioId == usuario.Id))  // Filtrar solo los eventos del usuario
+                .Include(e => e.Categoria)
+                .ToListAsync();
+
+            return View(eventosInscritos);  // Pasamos los eventos a la vista
+        }
+
+        public async Task<IActionResult> VerInscritosAdmin()
+        {
+            var eventos = await _context.Evento
+                .Include(e => e.Asistentes)
+                .ThenInclude(a => a.Usuario)
+                .ToListAsync();
+
+            return View(eventos);  // Devuelve la lista de eventos con los usuarios inscritos
+        }
+        public async Task<IActionResult> VerAsistentes(int eventoId)
+        {
+            var evento = await _context.Evento
+                .Include(e => e.Asistentes)
+                .ThenInclude(a => a.Usuario)
+                .FirstOrDefaultAsync(e => e.Id == eventoId);
+
+            if (evento == null)
+            {
+                return NotFound();  // Si no se encuentra el evento
+            }
+
+            return View(evento);  // Devuelve la información del evento y los asistentes
+        }
+        public async Task<IActionResult> MarcarAsistencia(int eventoId, int asistenteId)
+        {
+            var asistente = await _context.Asistente
+                .FirstOrDefaultAsync(a => a.Id == asistenteId && a.EventoId == eventoId);
+
+            if (asistente == null)
+            {
+                return NotFound();  // Si no se encuentra el asistente
+            }
+
+            // Marcar la asistencia como "Asistió"
+            asistente.Asistencia = true;
+
+            _context.Update(asistente);
+            await _context.SaveChangesAsync();
+
+            // Usamos TempData para mostrar un mensaje de éxito
+            TempData["Success"] = "La asistencia ha sido marcada como 'Asistió'.";
+
+            return RedirectToAction("VerAsistentesAdmin");  // Redirigir para recargar la página
+        }
+        public async Task<IActionResult> MarcarNoAsistencia(int eventoId, int asistenteId)
+        {
+            var asistente = await _context.Asistente
+                .FirstOrDefaultAsync(a => a.Id == asistenteId && a.EventoId == eventoId);
+
+            if (asistente == null)
+            {
+                return NotFound();  // Si no se encuentra el asistente
+            }
+
+            // Marcar la asistencia como "No Asistió"
+            asistente.Asistencia = false;
+
+            _context.Update(asistente);
+            await _context.SaveChangesAsync();
+
+            // Usamos TempData para mostrar un mensaje de éxito
+            TempData["Success"] = "La asistencia ha sido marcada como 'No Asistió'.";
+
+            return RedirectToAction("VerAsistentesAdmin");  // Redirigir para recargar la página
+        }
+        public async Task<IActionResult> VerAsistentesAdmin()
+        {
+            var eventos = await _context.Evento
+                .Include(e => e.Asistentes)
+                .ThenInclude(a => a.Usuario)
+                .ToListAsync();
+
+            return View(eventos);  // Devuelve la lista de eventos con los usuarios inscritos
+        }
+
+
     }
 }
 

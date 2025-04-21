@@ -1,0 +1,22 @@
+﻿@model IEnumerable<PAWMartes.Models.Evento>
+
+@{
+    ViewData["Title"] = "Inscripción a Eventos";
+}
+
+<h2>Inscripción a Eventos</h2>
+
+<div>
+    @foreach (var evento in Model)
+    {
+        <div class="evento-item">
+            <h3>@evento.Titulo</h3>
+            <p>@evento.Descripcion</p>
+            <p>Fecha: @evento.Fecha.ToString("dd/MM/yyyy")</p>
+            <p>Hora: @evento.Hora.ToString("HH:mm")</p>
+            <p>Ubicación: @evento.Ubicacion</p>
+            <p>Cupo máximo: @evento.CapacidadMaxima</p>
+            <a href="@Url.Action("Inscripcion", "Evento", new { eventoId = evento.Id })" class="btn btn-primary">Inscribirse</a>
+        </div>
+    }
+</div>
