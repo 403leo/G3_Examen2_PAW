@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PAWMartesAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83d9b3547384d35279fdaddfac0d6170a4ca9d31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d6c122923f6e3acf7b5cd13d24485e231bf241b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PAWMartesAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PAWMartesAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
